@@ -1,0 +1,1 @@
+Sample of text file created by the program.
